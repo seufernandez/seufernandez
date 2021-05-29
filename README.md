@@ -31,3 +31,20 @@
 
  I tell a bit more about me on my [Linked-In](https://www.linkedin.com/in/seufernandez/)
 </p>
+
+
+### Things I don´t tell on my Linked-In:
+
+- I play Guitar and sing when the codes starts boring, so... sorry neighbors
+- I learn things **by myself**, but unfortunately they don´t understand this on **driving school**
+- I started to make things on computer when my school once prohibited Hoodies in winter, then me and some friends started to make fun of it making memes and was my first time using Photoshop :)
+- I love dark mode, thxx Zeno sz
+- I code hearing the Lofi Girl live 😳🤝😎👍
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seufernandez&layout=compact&theme=dracula)
+
+
+  ### "Be the change you want to see in the world" - Mahatma Gandhi
+
+<br/>
+
