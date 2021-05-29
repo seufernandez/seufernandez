@@ -13,3 +13,12 @@
   <a href="https://www.linkedin.com/in/seufernandez/" title="Hire me">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linked--In-%20%20%20%20-blue"></a>
 </div>
+
+<!-- Title -->
+<div align="center">
+  <h1 align="center">G A B R I E L &nbsp; F E R N A N D E Z</h1>
+  <b>Student | Developer | Instructor </b>
+</div>
+
+<br/>
+<br/>
