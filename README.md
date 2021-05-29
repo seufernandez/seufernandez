@@ -44,5 +44,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seufernandez&layout=compact&theme=dracula)
 
   ### "Be the change you want to see in the world" - Mahatma Gandhi
-<br/>
 
