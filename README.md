@@ -35,7 +35,7 @@
 
 ### Things I don´t tell on my Linked-In:
 
-- I play Guitar and sing when the codes starts boring, so... sorry neighbors
+- I play Guitar and sing sometimes when the codes starts boring, so... sorry neighbors
 - I learn things **by myself**, but unfortunately they don´t understand this on **driving school**
 - I started to make things on computer when my school once prohibited Hoodies in winter, then me and some friends started to make fun of it making memes and was my first time using Photoshop :)
 - I love dark mode, thxx Zeno sz
