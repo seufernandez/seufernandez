@@ -41,7 +41,7 @@
 - I love dark mode, thxx Zeno sz
 - I code hearing the Lofi Girl live 😳🤝😎👍
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seufernandez&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seufernandez&layout=compact&theme=dracula&hide=html,java,Objective-C)
 
   ### "Be the change you want to see in the world" - Mahatma Gandhi
 
