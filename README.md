@@ -16,7 +16,7 @@
 
 <!-- Title -->
 <div align="center">
-  <h1 align="center">G A B R I E L &nbsp; F E R N A N D E Z</h1>
+  <h1 align="center">G A B R I E L &nbsp; F E R N A N D E S</h1>
   <b>Student | Developer | Instructor </b>
 </div>
 
