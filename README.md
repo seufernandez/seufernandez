@@ -24,7 +24,7 @@
 
 <!-- Main Content -->
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
   Hello you! I´m a Brazilian FullStack Developer and I Teach everything I learn about Programming on my [Youtube Channel](https://www.youtube.com/channel/UCblely93wOCb_SvE_HOpOEA).
 
