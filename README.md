@@ -1,5 +1,5 @@
 <p align="center">
-  <code>#HTML</code> &nbsp; <code>#CSS</code> &nbsp; <code>#JavaScript</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#React</code> &nbsp; <code>#Postgres</code> &nbsp; <code>#MySQL</code> &nbsp;<code>#Blender</code> &nbsp;<code>#Adobe Pack</code> &nbsp;
+  <code>#Chakra UI</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#React</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#Postgres</code> &nbsp; <code>#Blender</code> &nbsp;<code>#Adobe Pack</code> &nbsp;
 </p>
 
 <br/>
@@ -37,8 +37,7 @@
 - I play Guitar and sing sometimes when the codes starts boring, so... sorry neighbors
 - I learn things **by myself**, but unfortunately they don´t understand this on **driving school**
 - I started to make things on computer when my school once prohibited Hoodies in winter, then me and some friends started to make fun of it making memes and was my first time using Photoshop :)
-- I love dark mode, thxx Zeno sz
-- I code hearing the Lofi Girl live 😳🤝😎👍
+- Sometimes I code listening to [this](https://youtu.be/8puBny7K11Q), looks like Im coding on some party backstage after a time travel idk
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seufernandez&layout=compact&theme=dracula&hide=html,java,Objective-C)
 
