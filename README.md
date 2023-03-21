@@ -39,5 +39,4 @@
 - I started to make things on computer when my school once prohibited Hoodies in winter, then me and some friends started to make fun of it making memes and was my first time using Photoshop :)
 - Sometimes I code listening to [this](https://youtu.be/8puBny7K11Q), looks like Im coding on some party backstage after a time travel idk
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seufernandez&layout=compact&theme=dracula&hide=html,java,Objective-C)
 
