@@ -1,5 +1,5 @@
 <p align="center">
-  <code>#Chakra UI</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#React</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#Postgres</code> &nbsp; <code>#Blender</code> &nbsp;<code>#Adobe Pack</code> &nbsp;
+  <code>#TypeScript</code> &nbsp; <code>#Node</code> &nbsp; <code>#Nest</code> &nbsp; <code>#React</code> &nbsp; <code>#NextJS</code> &nbsp; <code>#GraphQL</code> &nbsp;
 </p>
 
 <br/>
@@ -17,7 +17,7 @@
 <!-- Title -->
 <div align="center">
   <h1 align="center">G A B R I E L &nbsp; F E R N A N D E S</h1>
-  <b>Student | Developer</b>
+  <b>Software Engineer</b>
 </div>
 
 <br/>
@@ -26,7 +26,7 @@
 <p align="justify">
   &nbsp;&nbsp;&nbsp;
   
-  Hello you! I´m a Brazilian FullStack Developer and I Teach everything I learn about Programming on my [Youtube Channel](https://www.youtube.com/channel/UCblely93wOCb_SvE_HOpOEA).
+  Hello you! I´m a Brazilian FullStack Developer.
 
  I tell a bit more about me on my [Linked-In](https://www.linkedin.com/in/seufernandez/)
 </p>
