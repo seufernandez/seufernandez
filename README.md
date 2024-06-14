@@ -26,17 +26,11 @@
 <p align="justify">
   &nbsp;&nbsp;&nbsp;
   
-  Hello you! I´m a Brazilian FullStack Developer.
+Hello, I'm Gabriel Fernandes, a Software Engineer based in Belo Horizonte, Brazil.
 
- I tell a bit more about me on my [Linked-In](https://www.linkedin.com/in/seufernandez/)
-</p>
+Using technologies not just for novelty but to address real-world problems!
 
+Checkout my [Linked-In](https://www.linkedin.com/in/seufernandez/)
 
-### Things I don´t tell on my Linked-In:
-
-- I play Guitar and sing sometimes when the codes starts boring, so... sorry neighbors
-- I learn things **by myself**, but unfortunately they don´t understand this on **driving school**
-- I started to make things on computer when my school once prohibited Hoodies in winter, then me and some friends started to make fun of it making memes and was my first time using Photoshop :)
-- Sometimes I code listening to [this](https://youtu.be/8puBny7K11Q), looks like Im coding on some party backstage after a time travel idk
 
 
