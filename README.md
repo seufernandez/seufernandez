@@ -6,7 +6,7 @@
 
 <!-- Icons -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/seufernandez/" title="Hire me">
+  <a href="https://www.linkedin.com/in/ogabrielfernandes/" title="Hire me">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linked--In-%20%20%20%20-blue"></a>
 </div>
 
@@ -26,7 +26,7 @@ Hello, I'm Gabriel Fernandes, a Software Engineer based in Belo Horizonte, Brazi
 
 Using technologies not just for novelty but to address real-world problems!
 
-Checkout my [Linked-In](https://www.linkedin.com/in/seufernandez/)
+Checkout my [Linked-In](https://www.linkedin.com/in/ogabrielfernandes/)
 
 
 
